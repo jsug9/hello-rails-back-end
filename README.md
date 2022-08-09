@@ -2,6 +2,9 @@
 
 > In this project I implement a connection between a Ruby on Rails back-end and React front-end.
 
+## Front-end App
+To check the front-end of the app, check this [repo](https://github.com/jsug9/hello-react-front-end).
+
 ## Getting Started
 
 To get a local copy of the project, follow these steps: 
