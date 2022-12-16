@@ -49,6 +49,7 @@ rspec
 
 - GitHub: [@jsug9](https://github.com/jsug9)
 - LinkedIn: [Augusto Galindo](https://www.linkedin.com/in/augustogalindo/)
+Augusto is just testing if git is working
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
