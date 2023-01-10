@@ -48,7 +48,7 @@ rspec
 👤 **Augusto Galindo**
 
 - GitHub: [@jsug9](https://github.com/jsug9)
-- LinkedIn: [Augusto Galindo](https://www.linkedin.com/in/augustogalindo/)
+- LinkedIn: [Augusto Galindo Ali](https://www.linkedin.com/in/augustogalindo/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
